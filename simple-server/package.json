@@ -1,11 +1,11 @@
 {
   "name": "simple-server",
   "dependencies": {
-    "apollo-datasource-rest": "latest",
-    "apollo-server": "2.1.0",
-    "graphql": "14.0.2",
-    "lodash": "4.17.11",
-    "node-fetch": "2.3.0"
+    "apollo-datasource-rest": "^0.4.0",
+    "apollo-server": "^2.5.0",
+    "graphql": "^14.3.1",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.6.0"
   },
   "license": "MIT",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "devDependencies": {
-    "@types/graphql": "14.0.1",
-    "nodemon": "1.18.4"
+    "@types/graphql": "^14.2.0",
+    "nodemon": "^1.19.1"
   }
 }
